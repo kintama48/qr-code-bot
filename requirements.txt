@@ -30,7 +30,7 @@ parsimonious==0.8.1
 protobuf==3.18.0
 pycryptodome==3.10.1
 pyrsistent==0.18.0
-pywin32==301
+pywin32==223
 qrcode==7.3
 requests==2.26.0
 rlp==2.0.1
